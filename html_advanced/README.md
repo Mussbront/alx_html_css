@@ -30,8 +30,8 @@ A wireframe design for a new webpage using html and CSS styling.
 
 1. Section element with a block with four video blocks
 2. Four video blocks with an image, heading, text, and two blocks
-2.1. Block for author with image and heading.
-2.2. Block for rating with images and text.
+    1. Block for author with image and heading.
+    2. Block for rating with images and text.
 
 ### 5. Membership
 
