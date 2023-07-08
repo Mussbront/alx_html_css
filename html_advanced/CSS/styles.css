@@ -1,0 +1,136 @@
+body
+{
+    /*background-color: rgb(247, 247, 231);*/
+    border: 3px solid rgb(3, 3, 3);
+    height: 100vh;
+    padding: 10px;
+}
+
+header
+{
+    border: 2px solid rgb(0, 0, 0);
+    height: 45px;
+    padding: 5px;
+}
+
+
+header div
+{
+    border: 1px solid rgb(0, 0, 0);
+    /*height: inherit;*/
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.logo
+{
+    border: 1px solid rgb(253, 4, 4);
+    height: inherit;
+    width: 60px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.logo a
+{
+    border: 1px solid rgb(0, 133, 0);
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+.logo a span
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#navigation
+{
+    width: 120px;
+    padding: 5px;
+    display: flex;
+    border-radius: 5px;
+    gap: 5px;
+    justify-content: center;
+    
+}
+
+#navigation a
+{
+    border: 1px solid rgb(255, 0, 0);
+    width: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main
+{
+    border: 2px solid rgb(0, 0, 0);
+    height: inherit;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+main section
+{
+    border: 1px rgb(0, 0, 0);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#banner div
+{
+    border: 1px solid rgb(0, 0, 0);
+    width: 20%;
+    padding: 4px;
+    height: 100px;
+    display: block;
+    justify-content: center;
+}
+
+#banner div h1
+{
+    border: 1px solid blue;
+    margin: 0;
+}
+
+#banner div p
+{
+    border: 1px solid purple;
+    margin: 0;
+}
+
+#banner div button
+{
+    border: 1px solid orange;
+    margin: 0;
+}
+
+#quote div
+{
+    margin-top: 5px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#videos div
+{
+    margin-top: 5px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#membership div
+{
+    margin-top: 5px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#faq div
+{
+    margin-top: 5px;
+    border: 1px solid rgb(0, 0, 0);
+}
