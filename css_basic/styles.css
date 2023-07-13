@@ -11,15 +11,31 @@ main
     flex: auto;
 }
 
-main article
+#article1
 {
     flex: 2;
     overflow-y: auto;
 }
 
-main aside
+#aside
 {
     flex: 1;
     overflow-y: auto;
 }
 
+/*#tweets
+{
+    flex: 2;
+    overflow-y: auto;
+}*/
+
+#h1_tweets
+{
+    flex-wrap: inherit;
+}
+
+#home_link
+{
+    flex: auto;
+    text-align: left;
+}
