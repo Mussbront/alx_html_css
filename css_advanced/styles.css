@@ -517,3 +517,843 @@
     top: 0px;
     position: absolute;
 }
+
+.body .main {
+  width: 1440px;
+  height: 1093px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.body .main.background {
+  width: 1440px;
+  height: 1093px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.body .main.background.mask1 {
+  width: 1440px;
+  height: 1093px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #071629;
+}
+
+.body .main.background.mask2 {
+  width: 1440px;
+  height: 1093px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #071629;
+}
+
+.body .main.background.object {
+  width: 1448.15px;
+  height: 1055px;
+  left: -4.08px;
+  top: -66px;
+  position: absolute;
+}
+
+.body .main.background.object.bitmap1 {
+  width: 1448.15px;
+  height: 1055px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.body .main.background.object.bitmap2 {
+  width: 1448.15px; height: 1055px; left: 0px; top: 0px; position: absolute
+}
+
+.body .main.background.object.bitmap3 {
+  width: 1448.15px;
+  height: 1055px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: linear-gradient(0deg, black 0%, black 100%), radial-gradient(58.21% 58.21% at 58.21% 29.10%, rgba(41.18, 48.22, 60.51, 0) 0%, #071629 100%);
+}
+
+.body .main.banner.getschooled {
+left: 377px;
+top: 220px;
+position: absolute;
+text-align: center;
+color: white;
+font-size: 120px;
+font-family: Source Sans Pro;
+font-weight: 700;
+word-wrap: break-word;
+}
+
+.body .main.banner.smiles {
+  left: 593px;
+  top: 361px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.body .main.banner.grin {
+  left: 704px;
+  top: 361px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.body .main.banner.laugh {
+  left: 797px;
+  top: 361px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.body .main.banner.button {
+  width: 162px;
+  height: 44px;
+  left: 639px;
+  top: 419px;
+  position: absolute;
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.50);
+}
+
+.body .main.banner.button.buttonbackground {
+  width: 162px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+  border-radius: 22px;
+}
+
+.body .main.banner.button.register {
+  left: 20px;
+  top: 13px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.body .main.banner .learnfromthepros {
+  left: 604px;
+  top: 631px;
+  position: absolute;
+  text-align: center;
+}
+
+.body .main.banner .learnfromthepros.spanL {
+  color: #C271FF;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.body .main.banner .learnfromthepros.Span {
+  color: white;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.body .main.banner .learnfromthepros.spanf {
+  color: white;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.body .main.banner .learnfromthepros.pros {
+  width: 1009px;
+  height: 237px;
+  left: 217px;
+  top: 758px;
+  position: absolute;
+}
+
+.pro1 {
+  width: 150px;
+  height: 237px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro1 .avatar {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro1 .avatar img {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro1 .avatar.mask1 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro1 .avatar.mask2 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro1 .entity1 {
+  width: 150px;
+  left: 0px;
+  top: 160px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 900;
+  line-height: 27px;
+  word-wrap: break-word;
+}
+
+.pro1 .title1 {
+  width: 150px;
+  left: 0px;
+  top: 189px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+
+.pro {
+  width: 150px;
+  height: 237px;
+  left: 289px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro2 .avatar {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro2 .avatar img {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro2 .avatar.mask1 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro2 .avatar.mask2 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro2 .entity1 {
+  width: 150px;
+  left: 0px;
+  top: 160px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 900;
+  line-height: 27px;
+  word-wrap: break-word;
+}
+
+.pro2 .title1 {
+  width: 150px;
+  left: 0px;
+  top: 189px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+
+.pro3 {
+  width: 150px;
+  height: 237px;
+  left: 570px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro3 .avatar {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro3 .avatar img {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro3 .avatar.mask1 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro3 .avatar.mask2 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro3 .entity3 {
+  width: 150px;
+  left: 0px;
+  top: 160px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 900;
+  line-height: 27px;
+  word-wrap: break-word;
+}
+
+.pro3 .title3 {
+  width: 150px;
+  left: 0px;
+  top: 189px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+
+.pro4 {
+  width: 150px;
+  height: 237px;
+  left: 856px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro4 .avatar {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro4 .avatar img {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.pro4 .avatar.mask1 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro4 .avatar.mask2 {
+  width: 150px;
+  height: 150px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: white;
+}
+
+.pro4 .entity4 {
+  width: 150px;
+  left: 0px;
+  top: 160px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 900;
+  line-height: 27px;
+  word-wrap: break-word;
+}
+
+.pro4 .title4 {
+  width: 150px;
+  left: 0px;
+  top: 189px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.membership {
+  width: 1440px;
+  height: 502px;
+  left: 0px;
+  top: 2109px;
+  position: absolute;
+}
+
+.membership .background {
+  width: 1440px;
+  height: 502px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #071629;
+}
+
+.membership .FreeMembership {
+  left: 617px;
+  top: 70px;
+  position: absolute;
+  text-align: center;
+
+}
+
+.membership .FreeMembership.spanF {
+  color: #C271FF;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.membership .FreeMembership.span_ {
+  color: white;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.membership .FreeMembership.spanm {
+  color: white;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.membership .button {
+  width: 162px;
+  height: 44px;
+  left: 639px;
+  top: 406px;
+  position: absolute;
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.50);
+}
+
+.membership .button.register {
+  left: 21.50px;
+  top: 13px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.membership .button.buttonbackground {
+  width: 162px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+  border-radius: 22px;
+}
+
+.membership .purplesmile1 {
+  width: 257px;
+  height: 153px;
+  left: 164px;
+  top: 168px;
+  position: absolute;
+}
+
+.membership .purplesmile1.title {
+  width: 256px;
+  left: 0.50px;
+  top: 62px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile1.LoremIpsum {
+  width: 212px;
+  left: 22.50px;
+  top: 101px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile1.smile {
+  width: 43.67px;
+  height: 35.35px;
+  left: 106.71px;
+  top: 0.03px;
+  position: absolute;
+}
+
+.membership .purplesmile1.smile.path1 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 5.28px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile1.smile.path2 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 27.74px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile1.smile.path3 {
+  width: 42.69px;
+  height: 10.64px;
+  left: 0px;
+  top: 24.79px;
+  position: absolute;
+  transform: rotate(-7deg);
+  transform-origin: 0 0;
+  background: #C271FF;
+}
+
+.membership .purplesmile2 {
+  width: 256px;
+  height: 153px;
+  left: 448px;
+  top: 168px;
+  position: absolute;
+}
+
+.membership .purplesmile2.title {
+  width: 256px;
+  left: 0.50px;
+  top: 62px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile2.LoremIpsum {
+  width: 212px;
+  left: 22.50px;
+  top: 101px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile2.smile {
+  width: 43.67px;
+  height: 35.35px;
+  left: 106.71px;
+  top: 0.03px;
+  position: absolute;
+}
+
+.membership .purplesmile2.smile.path1 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 5.28px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile2.smile.path2 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 27.74px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile2.smile.path3 {
+  width: 42.69px;
+  height: 10.64px;
+  left: 0px;
+  top: 24.79px;
+  position: absolute;
+  transform: rotate(-7deg);
+  transform-origin: 0 0;
+  background: #C271FF;
+}
+
+.membership .purplesmile3 {
+  width: 257px;
+  height: 153px;
+  left: 733px;
+  top: 168px;
+  position: absolute;
+}
+
+.membership .purplesmile3.title {
+  width: 256px;
+  left: 0.50px;
+  top: 62px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile3.LoremIpsum {
+  width: 212px;
+  left: 22.50px;
+  top: 101px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile3.smile {
+  width: 43.67px;
+  height: 35.35px;
+  left: 106.71px;
+  top: 0.03px;
+  position: absolute;
+}
+
+.membership .purplesmile3.smile.path1 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 5.28px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile3.smile.path2 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 27.74px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile3.smile.path3 {
+  width: 42.69px;
+  height: 10.64px;
+  left: 0px;
+  top: 24.79px;
+  position: absolute;
+  transform: rotate(-7deg);
+  transform-origin: 0 0;
+  background: #C271FF;
+}
+
+.membership .purplesmile4 {
+  width: 257px;
+  height: 153px;
+  left: 1019px;
+  top: 168px;
+  position: absolute;
+}
+
+.membership .purplesmile4.title {
+  width: 256px;
+  left: 0.50px;
+  top: 62px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile4.LoremIpsum {
+  width: 212px;
+  left: 22.50px;
+  top: 101px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.membership .purplesmile4.smile {
+  width: 43.67px;
+  height: 35.35px;
+  left: 106.71px;
+  top: 0.03px;
+  position: absolute;
+}
+
+.membership .purplesmile4.smile.path1 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 5.28px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile4.smile.path2 {
+  width: 9.44px;
+  height: 14.22px;
+  left: 27.74px;
+  top: 0px;
+  position: absolute;
+  background: #C271FF;
+}
+
+.membership .purplesmile4.smile.path3 {
+  width: 42.69px;
+  height: 10.64px;
+  left: 0px;
+  top: 24.79px;
+  position: absolute;
+  transform: rotate(-7deg);
+  transform-origin: 0 0;
+  background: #C271FF;
+}
